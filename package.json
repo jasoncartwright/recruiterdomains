@@ -1,0 +1,20 @@
+{
+  "name": "recruiter-domains",
+  "version": "1.0.0",
+  "description": "List of recruiter domains",
+  "scripts": {
+    "test": "vows test/* --spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasoncartwright/recruiterdomains.git"
+  },
+  "author": "Jason Cartwright",
+  "bugs": {
+    "url": "https://github.com/jasoncartwright/recruiterdomains/issues"
+  },
+  "homepage": "https://github.com/jasoncartwright/recruiterdomains#readme",
+  "dependencies": {
+    "vows": "^0.8.1"
+  }
+}
